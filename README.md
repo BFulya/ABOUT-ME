@@ -16,9 +16,9 @@ I’m currently improving myself in:
 
 ## 🧠 What I Work With
 
+- 🌐 C# (.NET6+,.NetCore MVC)
 - 🐍 Python (Backend Development)
 - ☕ Java (OOP & SOLID design)
-- 🌐 JavaScript (basic web development)
 - 🌐 HTML,JavaScript,CSS,React
 - 🗄️ SQL / Databases
 - 🐳 Docker (learning stage)
